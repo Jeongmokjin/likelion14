@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        로컬 브랜치에서 수정한 수정사항
+        로컬 브랜치에서 수정한 수정사항2
       </p>
     </>
   )
